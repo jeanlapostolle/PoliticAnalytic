@@ -2,5 +2,6 @@
 populate_bdd/*
 raw_data/*
 
-*.h2.db
+*.db
+*.sqlite
 
