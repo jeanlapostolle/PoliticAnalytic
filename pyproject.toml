@@ -1,0 +1,16 @@
+[project]
+name = "politicanalytic"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "dbml-sqlite>=0.3.3",
+    "fastapi[standard]>=0.116.2",
+    "folium>=0.20.0",
+    "geopandas==1.1.1",
+    "more-itertools==10.8.0",
+    "notebook>=7.4.5",
+    "spatialite==0.0.3",
+    "sqlmodel>=0.0.25",
+    "taipy==4.1.0",
+]
